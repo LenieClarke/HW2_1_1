@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW2_1_1</string>
+    <string name="inputMoney">Ввод денег</string>
+    <string name="inputInfo">Информация об оплате</string>
+    <string name="btnOK">OK</string>
+    <string name="chkBxBankCard">С банковской карты</string>
+    <string name="chkBxMobilePhone">С мобильного телефона</string>
+    <string name="chkBxCashAddress">Наличными по адресу</string>
+    <string name="toastPaymentBankCard">Оплата банковской картой подтверждена</string>
+    <string name="toastPaymentMobilePhone">Оплата с мобильного телефона подтверждена</string>
+    <string name="toastPaymentCashAddress">Оплата наличными по адресу подтверждена</string>
+</resources>
